@@ -75,13 +75,13 @@ p {
 button {
     font-weight: 700;
     font-size: 28px;
-    border: 1px solid #adff00;
+    border: 1px solid #adff02;
     border-radius: 20px;
-    background: #adff00;
+    background: #adff01;
     padding: 5px 20px;
     margin-top: 30px;
     cursor: pointer;
-    box-shadow: 1px 1px 10px #000000;
+    box-shadow: 1px 1px 10px #000001;
 }
 
 @media (max-width:992px) {
